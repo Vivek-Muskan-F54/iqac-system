@@ -1,4 +1,4 @@
-export const DEFAULT_API_URL = 'https://iqac-system.onrender.com/api';
+export const DEFAULT_API_URL = 'https://iqac-system-bkku.onrender.com/api';
 
 const normalizeUrl = (value) => String(value ?? '').trim().replace(/\/+$/, '');
 
